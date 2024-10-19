@@ -11,3 +11,6 @@ select * from geolocation;
 select * from order_items;
 
 select * from orders;
+
+select * from payments;
+
