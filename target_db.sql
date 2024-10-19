@@ -14,5 +14,7 @@ select * from orders;
 
 select * from payments;
 
+select * from sellers;
+
 select * from products;
 
